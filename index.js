@@ -12,6 +12,4 @@ let wrapAdjective = function(visual ='*'){
   }
 }
 
-let calculator = function(add){
-  
-}
+let calculator = { let add = function()}
