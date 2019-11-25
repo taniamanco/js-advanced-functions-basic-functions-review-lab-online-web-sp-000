@@ -12,6 +12,6 @@ let wrapAdjective = function(visual ='*'){
   }
 }
 
-let calculator = {add: function(num1, num2)
-  return num1 + num2;
+let calculator = {add: function(num1, num2){
+  return num1 + num2;}
 }
